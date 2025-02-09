@@ -10,6 +10,6 @@ The project goal is to build SOC Lab at home using pfsense, Active Directory, Wi
 
 <p align="center">
 Open VM and load it up with Pfsense ISO Image: <br/>
-<img src="https://imgur.com/a/F16dBmS" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/FHnW2887/Image-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
